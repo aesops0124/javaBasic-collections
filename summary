@@ -1,0 +1,11 @@
+What is the knowledge point of the test? Where is the official document to the knowledge point?
+A: This test is basically testing the use of collection in Java. https://docs.oracle.com/javase/8/docs/api/java/util/Collection.html
+
+Why the test failed at first? 
+A: Because I did not get the logic of the test at first.
+
+Why you corrected the test that way? 
+A: The correction was based on understanding of the coding.
+
+Do you have further questions on this knowledge point? 
+A: No.
